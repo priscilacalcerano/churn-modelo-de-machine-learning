@@ -2,6 +2,7 @@ Entregable 2 del Master en Data Sciencie & AI de Niclio Digital School.
 Creación de un modelo de ML para predecir el churn sobre un dataset de 1500 registros.
 
 - Contexto de negocio
+- 
 A la compañía de telecomunicaciones MobileNOW le preocupa el descenso de número de clientes activos tras sufrir numerosas bajas en los últimos trimestres.
 Para combatirlo deciden impulsar una campaña deretención de clientes donde centrarán parte de losrecursos de telemarketing en evitar que los clientes se den de baja del servicio ofreciéndoles unas condiciones especiales si decidieran renovar por un año más.
 
